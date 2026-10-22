@@ -6,11 +6,11 @@
 // 它们可以改成从网络接口实时取——而组件那边照样一个字都不用动。
 
 export const home = {
-  heroTitle: "AI+CGE",
+  heroTitle: "CGE+AI",
   heroSubtitle: "政策模拟",
   featuredWork: {
     kicker: "作品",
-    title: "文字实验室",
+    title: "AI+CGE",
     copy: "拼音和情绪，挖掘中文里的细节",
     linkLabel: "打开作品",
   },
@@ -21,6 +21,6 @@ export const home = {
 };
 
 export const textLab = {
-  heroTitle: "文字实验室",
+  heroTitle: "AI+CGE",
   heroSubtitle: "拼音和情绪，挖掘中文里的细节",
 };
